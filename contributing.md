@@ -1,8 +1,19 @@
-<link rel="stylesheet" href="index.css" />
+# Contribution guidelines
 
-A list of open source archaeological software and resources.
+## Adding new items
 
-### Contributing to the list
+## Modifying existing items
+
+## Modifying the category scheme
+
+## Implementing new features
+
+## Translation
+
+## Bug reports
+
+## Templates
+
 <p>Please use the webform, submit a pull request, shoot me an email (z.batist@mail.utoronto.ca) or message me on twitter (@mtl_zack) to suggest relevant software or resources that are not already on the list, or to request that changes be made to existing items. All data will be reviewed to ensure that it remains accurate and to avoid duplicate records.</p>
 
 <p>Feel free to open an issue on GitHub to ask questions, discuss ideas to improve this site, or to report any bugs that you encounter. See contributing.md for a list of tasks that need to be done and guidelines for how to contribute.</p>
