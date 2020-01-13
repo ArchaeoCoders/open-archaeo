@@ -39,3 +39,9 @@ Thumbs.db
 .ztr-directory
 .jekyll-cache/
 keys.txt
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  
+
   article {
     display: inline-block;
     width: 100%;
@@ -9,22 +9,21 @@
     overflow: hidden;
     margin: 0px 0px 0px 0px;
   }
-  
+
   article img {
     width: 320px;
     height: 320px;
   }
-  
+
   .markdown-body article p {
     margin-bottom: 0;
   }
-  
+
   .description {
     color: gray;
     font-size: 90%;
   }
-  
+
   fieldset {
     border:0;
   }
-  

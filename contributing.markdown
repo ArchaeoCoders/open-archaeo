@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contributing
+permalink: /contributing/
+---
+
 # Contribution guidelines
 
 ## Adding new items
